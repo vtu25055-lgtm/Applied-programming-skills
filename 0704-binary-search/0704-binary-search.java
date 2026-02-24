@@ -9,12 +9,12 @@ class Solution {
             if (nums[mid] == target) {
                 return mid;
             } else if (nums[mid] < target) {
-                left = mid + 1;
+                left = mid + 1;   // search right half
             } else {
-                right = mid - 1;
+                right = mid - 1;  // search left half
             }
         }
         
-        return -1;
+        return -1;  // target not found
     }
 }
