@@ -126,4 +126,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0901-online-stock-span) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
