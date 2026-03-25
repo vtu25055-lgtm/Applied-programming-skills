@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 ## Counting
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0739-daily-temperatures) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
