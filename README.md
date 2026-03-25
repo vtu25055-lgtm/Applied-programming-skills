@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -180,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
