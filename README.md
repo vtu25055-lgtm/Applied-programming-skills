@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/vtu25055-lgtm/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
